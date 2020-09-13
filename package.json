@@ -1,0 +1,15 @@
+{
+  "name": "cipher-brute-force",
+  "version": "1.0.0",
+  "description": "Playing with ciphers.",
+  "author": "Anton Pinchuk",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "cli-progress": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
